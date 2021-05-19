@@ -4,10 +4,8 @@
     text-decoration: none;
 }
 body {
-    background: url('image/image.png') center;
-
+    background: url('image/image.png') center center;
     background-attachment: fixed;
-    /* background-size: center; */
     padding: 0px;
     margin: 0px;
 }
