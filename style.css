@@ -17,13 +17,14 @@ center {
     width: 100vw;
     display: grid;
     position: fixed;
+    max-height: ;
     grid-template-columns: auto 50vh auto;
     grid-template-rows: 25vh 50vh 25vh;
 }
 #background_icon_png {
     grid-area: 2/2/3/3;
-    height: 50vh;
-    width: 50vh;
+    height: 100%;
+    width: 100%;
 }
 #postbody {
     position: relative;
